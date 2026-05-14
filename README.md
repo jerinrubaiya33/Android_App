@@ -3,7 +3,7 @@
 This is an Android application built using **Flutter** in **Android Studio**.  
 The app is designed to work **completely offline**, meaning it does **not require Wi-Fi or mobile data** to function.
 
-https://github.com/user-attachments/assets/49c14f90-6f59-4662-9f8c-682a10c157ff
+https://github.com/user-attachments/assets/fb11f099-56ec-4060-9f58-548dcc9550b4
 
 ## 📂 Project Structure
 
